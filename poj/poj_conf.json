@@ -1,0 +1,31 @@
+{
+  "login_url": "http://poj.org/login",
+  "submit_url": "http://poj.org/submit",
+  "response_url": "http://poj.org/status?user_id=",
+  "file_name": "E:/VSproject/TSOJ/TSOJ/TSOJ/code.cpp",
+  "interval_time": 5,
+  "table": [
+    "Run ID",
+    "User",
+    "Problem",
+    "Result",
+    "Memory",
+    "Time",
+    "Language",
+    "Code Length",
+    "Submit Time"
+  ],
+  "post_data": {
+    "user_id1": "your user id",
+    "password1": "your password",
+    "B1": "login",
+    "url": "/problemlist"
+  },
+  "submit_data": {
+    "problem_id": "1000",
+    "language": "0",
+    "source": "your code data",
+    "submit": "Submit",
+    "encoded": "1"
+  }
+}

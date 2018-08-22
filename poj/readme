@@ -1,0 +1,28 @@
+In the file poj_conf.json
+you should know the meaning of various parameters
+
+1    login_url
+2    submit_url
+3    response_url
+the three parameters is the URL to login, submit and get response, you DON'T need to change them
+
+4    file_name
+this is the path where you save your code, it is best to use an absolute path, turn it into your own code storage path
+
+5    interval_time
+this is the interval time the program visit the poj getting code information, the unit is seconds
+
+6    table
+it's the format of output form, you DON'T need to change it
+
+7    post_data
+it's the information of your own account, you must change "user_id1" and "password1"
+8    submit_data
+it some information about you code, you may need change "language", the rule is:
+    0 for G++
+    1 for GCC
+    2 for JAVA
+    3 for PASCAL
+    4 for C++
+    5 for C
+    6 for FORTRAN
