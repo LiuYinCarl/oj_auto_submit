@@ -13,9 +13,9 @@
 
 - 使用图示：
 
-![image](https://github.com/LiuYinCarl/oj_auto_submit/blob/master/images/poj1.png)
+- ![image](https://github.com/LiuYinCarl/oj_auto_submit/blob/master/images/poj1.png)
 
-![image](https://github.com/LiuYinCarl/oj_auto_submit/blob/master/images/poj2.png)
+- ![image](https://github.com/LiuYinCarl/oj_auto_submit/blob/master/images/poj2.png)
 
 --------------------------------
 
@@ -28,8 +28,8 @@
 
 - 使用图示：
 
-![image](https://github.com/LiuYinCarl/oj_auto_submit/blob/master/images/poj1.png)
+- ![image](https://github.com/LiuYinCarl/oj_auto_submit/blob/master/images/hduoj1.png)
 
-![image](https://github.com/LiuYinCarl/oj_auto_submit/blob/master/images/poj2.png)
+- ![image](https://github.com/LiuYinCarl/oj_auto_submit/blob/master/images/hduoj2.png)
 
 
