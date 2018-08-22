@@ -6,7 +6,7 @@ you should know the meaning of various parameters
 2    submit_url
 3    response_url
 the three parameters is the URL to login, submit and get response, you DON'T need to change them
-这三个参数是登陆，提交和获取结果的URL，你别瞎改
+这三个参数是登陆，提交和获取结果的URL，不用改
 
 4    file_name
 this is the path where you save your code, it is best to use an absolute path, turn it into your own code storage path
@@ -14,12 +14,12 @@ this is the path where you save your code, it is best to use an absolute path, t
 
 5    interval_time
 this is the interval time the program visit the hduoj getting code information, the unit is seconds
-这是程序访问 HDUOJ获取返回结果的间隔时间，单位是秒，你自己可以改，HDUOJ可以改小点，默认是5秒
+这是程序访问 HDUOJ获取返回结果的间隔时间，也就是刷新时间，单位是秒，你自己可以改，HDUOJ可以改小点，默认是5秒
 
 
 6    table
 it's the format of output form, you DON'T need to change it
-这是输出表格的样式，别瞎动
+这是输出表格的样式，不用改
 
 7    login_data
 it's the information of your own account, you must change "username" and "userpass"
