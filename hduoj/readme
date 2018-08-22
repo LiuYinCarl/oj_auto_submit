@@ -1,6 +1,6 @@
-In the file poj_conf.json
+In the file hduoj_conf.json
 you should know the meaning of various parameters
-在配置文件 poj_conf.json 中， 你需要知道如下参数的含义
+在配置文件 hduoj_conf.json 中， 你需要知道如下参数的含义
 
 1    login_url
 2    submit_url
@@ -13,24 +13,25 @@ this is the path where you save your code, it is best to use an absolute path, t
 这是你代码文件的路径，你要改成你自己的代码保存位置
 
 5    interval_time
-this is the interval time the program visit the poj getting code information, the unit is seconds
-这是程序访问 POJ获取返回结果的间隔时间，单位是秒，你自己可以改，POJ比较慢，可以改大点，默认是5秒
+this is the interval time the program visit the hduoj getting code information, the unit is seconds
+这是程序访问 HDUOJ获取返回结果的间隔时间，单位是秒，你自己可以改，HDUOJ可以改小点，默认是5秒
+
 
 6    table
 it's the format of output form, you DON'T need to change it
 这是输出表格的样式，别瞎动
 
-7    post_data
-it's the information of your own account, you must change "user_id1" and "password1"
-这是登陆数据，你要将 "user_id1" 和 "password1" 改成你自己的账号密码
+7    login_data
+it's the information of your own account, you must change "username" and "userpass"
+这是登陆数据，你要将 "username" 和 "userpass" 改成你自己的账号密码
 
 8    submit_data
 it some information about you code, you may need change "language", the rule is:
     0 for G++
     1 for GCC
-    2 for JAVA
-    3 for PASCAL
-    4 for C++
-    5 for C
-    6 for FORTRAN
+    2 for C++
+    3 for C
+    4 for Pascal
+    5 for Java
+    6 for C#
 这是提交代码的参数，你可能需要改的是 "language" 这一项，根据你自己的编程语言改成合适的参数

@@ -1,0 +1,29 @@
+{
+  "login_url": "http://acm.hdu.edu.cn/userloginex.php?action=login",
+  "submit_url": "http://acm.hdu.edu.cn/submit.php?action=submit",
+  "response_url": "http://acm.hdu.edu.cn/status.php?",
+  "file_name": "E:/VSproject/TSOJ/TSOJ/TSOJ/code.cpp",
+  "interval_time": 5,
+  "table": [
+    "Run ID",
+    "Submit Time",
+    "Judge Status",
+    "Pro.ID",
+    "Exe.Time",
+    "Exe.Memory",
+    "Code Len.",
+    "Language",
+    "Author"
+  ],
+  "login_data": {
+    "username": "your user name",
+    "userpass": "your password",
+    "login": "Sign In"
+  },
+  "submit_data": {
+    "check": 0,
+    "problemid": "1000",
+    "language": 0,
+    "usercode": "your code"
+  }
+}
